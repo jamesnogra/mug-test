@@ -1,0 +1,22 @@
+#main-container {
+    width: 35%;
+    margin: 0 auto;
+}
+
+#mug-image-container {
+    background-image: url("../images/white.png");
+    height: 350px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#mug-text-container {
+    font-size: 24px;
+    text-align: center;
+    margin-left:50px;
+    margin-right: 100px;
+    padding-top:70px;
+    padding-bottom: 40px;
+    cursor: n-resize;
+}
